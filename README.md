@@ -12,6 +12,8 @@
 
 📫 How to reach me : by email ✉️ hannahjbooth9@gmail.com or via my 🔗 [LinkedIn profile](www.linkedin.com/in/hannah-booth-b92845156)
 
+#### Thank you for your visit! ✨
+
 
 <!---
 hannahjbooth/hannahjbooth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
