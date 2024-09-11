@@ -4,7 +4,7 @@
 
 📚 I am trained in development to Bootcamp level
 
-💭 I also spend a lot of my free time expanding my coding knowledge 
+💭 I also spend a lot of my free time expanding my coding and tech knowledge
 
 💻 I currently work as a Freelance Web Developer
 
