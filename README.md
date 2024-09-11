@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Hannah Booth (@hannahjbooth)
 
-📚 I am trained in development to Bootcamp level
+📚 I am trained as a Developer to Bootcamp level
 
 💭 I also spend a lot of my free time expanding my coding and technical knowledge
 
